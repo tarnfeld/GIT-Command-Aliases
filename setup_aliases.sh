@@ -4,7 +4,7 @@
 #    Git Command Aliases
 #    ----------------------
 #
-#    Version: 0.1
+#    Version: 1.0
 #    Created by Tom Arnfeld (www.tarnfeld.com)
 #
 echo "Creating Aliases..\n"
